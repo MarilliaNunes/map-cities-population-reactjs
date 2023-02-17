@@ -15,6 +15,6 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  "include": ["src", "src/a.spec.ts"],
+  "include": ["src", "src/a.spec.ts", "save-for-later/chart-area copy.tsx"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

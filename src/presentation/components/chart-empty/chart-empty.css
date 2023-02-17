@@ -1,0 +1,11 @@
+.ChartEmpty {
+  background-color: white;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap:0.5rem;
+  padding: 0.5rem;
+  color: #4A4A4A;
+}
