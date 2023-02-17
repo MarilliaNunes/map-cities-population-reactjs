@@ -1,0 +1,37 @@
+.sidebar {
+  height: 100%;
+  width: 90px;
+  background-color: #17333B;
+  color: white;
+  display: flex;
+  position: relative;
+}
+
+.sidebar-list {
+  height: auto;
+  width: 100%;
+  padding: 0;
+  margin:0
+}
+
+.sidebar-list .row{
+  height: 90px;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.sidebar-list .row:hover{
+  cursor: pointer;
+  background-color: #3DC854;
+}
+
+.sidebar-list #active {
+  background-color: #3DC854;
+}
