@@ -22,7 +22,7 @@ First of all you must install the dependencies:
 $ npm install
 ```
 
-- Start the project in develop mode
+- Start the project in development mode
 
 ```bash
 $ npm run dev
